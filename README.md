@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ains123
+# 👋 Hi, I'm Ainsley Gichimu
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to meaningful projects.
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 **Tools:** Git, VS Code
 
 ## 📊 GitHub Stats
-![Ains123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ains123&show_icons=true&theme=nord)
+![Ainsley Gichimu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ains123&show_icons=true&theme=nord)
 
 ---
 
