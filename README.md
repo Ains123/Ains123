@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ainsley Gichimu
+#  Hi, I'm Ainsley Gichimu
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building innovative solutions and contributing to meaningful projects.
 
@@ -6,17 +6,12 @@ Welcome to my GitHub profile! I'm a passionate developer dedicated to building i
 - 🔍 Problem solver and continuous learner
 - 🎯 Focused on clean code and best practices
 
-## 🛠️ Tech Stack
-**Languages:** Python
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Tools:** Git, VS Code
-
 ## 📊 GitHub Stats
 ![Ainsley Gichimu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ains123&show_icons=true&theme=nord)
 
 ---
 
-*Feel free to explore my repositories and don't hesitate to reach out for collaboration!*## Hi there 👋
+*Feel free to explore my repositories and don't hesitate to reach out for collaboration!*
 
 <!--
 **Ains123/Ains123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
